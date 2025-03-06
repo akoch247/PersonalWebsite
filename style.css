@@ -5,9 +5,17 @@ body {
 section1 {
     font-family: 'Courier New', Courier, monospace;
     color: darkblue;
+    text-align: center;
 }
 
 section2 {
     font-family: 'Courier New', Courier, monospace;
     color: darkgreen;
+    text-align: center;
+}
+
+section3 {
+    font-family: 'Courier New', Courier, monospace;
+    color: darkgreen;
+    text-align: center;
 }
