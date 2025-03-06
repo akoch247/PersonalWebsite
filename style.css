@@ -1,3 +1,9 @@
 section1 {
     font-family: 'Courier New', Courier, monospace;
+    color: darkblue;
+}
+
+section2 {
+    font-family: 'Courier New', Courier, monospace;
+    color: darkgreen;
 }
