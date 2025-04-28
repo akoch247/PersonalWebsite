@@ -44,3 +44,26 @@ img {
     color: aliceblue;
     z-index: 3;
  }
+
+ .box {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    position: relative;
+    animation: moveAndColor 4s infinite alternate;
+ }
+
+ @keyframes moveAndColor {
+    0% {
+        left: 0;
+        background-color: blue;
+    }
+    50% {
+        left: 200px;
+        background-color: green;
+    }
+    100% {
+        left: 400px;
+        background-color: red;
+    }
+ }
